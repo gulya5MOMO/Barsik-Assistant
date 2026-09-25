@@ -1,0 +1,14 @@
+PyQt6>=6.4.0
+pystray>=0.19.5
+Pillow>=10.0.0
+ollama>=0.4.0
+mss>=10.0.0
+pytesseract>=0.3.10
+PyAutoGUI>=0.9.54
+PyGetWindow>=0.0.9
+pyperclip>=1.8.2
+pyttsx3>=2.90
+pygame-ce>=2.5.0
+requests>=2.31.0
+ddgs>=9.0.0
+pyinstaller>=6.0.0
